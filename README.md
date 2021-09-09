@@ -1,4 +1,4 @@
-### Hi there 👋 I'm new here *awkwardly smiles and raises both hands in the air for no reason*
+### Hi there 👋 I'm new here **awkwardly smiles and raises both hands in the air for no reason**
 <!--
 **d1joseph/d1joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
