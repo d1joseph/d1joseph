@@ -1,4 +1,4 @@
-### Hi there 👋 I'm new here &ast;awkwardly smiles&ast;
+### Hi there 👋
 
 🌱 I’m currently learning Solidity and development in web3.
 
