@@ -11,4 +11,4 @@
 ![Node.js](https://camo.githubusercontent.com/afa443c9dfa59c8ad8886143c2c68b493b83d0283cd73155258ceab45765f0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3233323732413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)
 ![Ubuntu](https://camo.githubusercontent.com/9216676181798580afba72790d8bc8c291699403b8db31f24486a052ef06202e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d3233323732413f7374796c653d666c6174266c6f676f3d7562756e7475)
 
-Outside of programming I enjoy learning about ancient history, philosophy, playing basketball, MMORPGs and tinkering with Arduino and Rasberry PI projects.
+Outside of programming I enjoy learning about ancient history, philosophy, playing basketball, MMORPGs, and tinkering with Arduino and Rasberry PI projects.
