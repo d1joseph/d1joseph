@@ -109,7 +109,7 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 
 ## 🎯 Interests
 
-When I'm not coding, you'll find me:
+When I'm not developing software, you'll find me:
 - 🎮 PC gaming and board gaming
 - 📚 Learning about ancient and modern history
 - 🎨 Painting table top miniatures
