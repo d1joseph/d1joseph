@@ -5,14 +5,15 @@
 
 📍 Sydney, Australia | 💼 Currently @ [Aura](https://aura-os.com) | 🎓 Computer Science @ Western Sydney University
 
-## 🚀 What I Do
+## 🚀 About Me
 
-I build **scalable backend systems** that handle hundreds of thousands of user interactions while maintaining **sub-second response times**. My expertise spans serverless infrastructure, microservice development, and mobile engineering with a focus on creating flexible APIs that integrate seamlessly with third-party services.
+I like to build **scalable backend systems** that handle hundreds of thousands of user interactions while maintaining **sub-second response times**. My expertise spans serverless infrastructure, microservice development, and mobile engineering with a focus on creating flexible APIs that integrate seamlessly with third-party services.
 
 ### 🏆 Recent Achievements
 - **Led Google Pixel AO activation platform** processing 6,800+ real-time photo captures with AI watermarking at Australian Open 2025
 - **Architected AR campaign platform** for Data Pinata handling **3.1M+ game sessions** across 230K+ users with **99.9% uptime**
-- **Built microservices** for Juggernaut app serving 1,000+ users with **<200ms response times** and **95%+ test coverage**
+- **Developed a run for rewards platform** om collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
+- **Developed backend** for Juggernaut app serving 1,000+ users with **<200ms response times** and **95%+ test coverage**
 
 ## 🛠️ Tech Stack
 
@@ -114,6 +115,7 @@ When I'm not developing software, you'll find me:
 - 📚 Learning about ancient and modern history
 - 🎨 Painting table top miniatures
 - 💻 Developing personal projects
+- 🏃🏽‍♂️ Being active and working on my fitness
 
 ## 📫 Let's Connect!
 
