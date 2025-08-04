@@ -12,7 +12,7 @@ I like to build **scalable backend systems** that handle hundreds of thousands o
 ### 🏆 Recent Achievements
 - **Led Google Pixel AO activation platform** processing 6,800+ real-time photo captures with AI watermarking at Australian Open 2025
 - **Architected AR campaign platform** for Data Pinata handling **3.1M+ game sessions** across 230K+ users with **99.9% uptime**
-- **Developed a run for rewards platform** om collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
+- **Developed a run for rewards platform** in collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
 - **Developed backend** for Juggernaut app serving 1,000+ users with **<200ms response times** and **95%+ test coverage**
 
 ## 🛠️ Tech Stack
