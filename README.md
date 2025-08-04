@@ -3,7 +3,7 @@
 
 **Full-Stack Software Engineer** specializing in high-performance web and mobile applications across SaaS platforms, AR experiences, and cloud-native architectures.
 
-📍 Sydney, Australia | 💼 Currently @ [Aura](https://aura-os.com) | 🎓 Computer Science @ Western Sydney University
+📍 Sydney, Australia | 💼 Software Engineer @ [leonardo.ai](https://leonardo.ai/) | 🎓 Computer Science @ Western Sydney University
 
 ## 🚀 About Me
 
