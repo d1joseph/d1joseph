@@ -1,5 +1,5 @@
 
-# Hey there! 👋
+# Hello 👋
 
 **Full-Stack Software Engineer** specializing in high-performance web and mobile applications across SaaS platforms, AR experiences, and cloud-native architectures.
 
