@@ -80,7 +80,7 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 
 ## 🏢 Professional Experience
 
-**Software Engineer @ Aura** (Nov 2023 - July 2025)
+**Software Engineer @ Aura Labs** (Nov 2023 - July 2025)
 - Core Platform Team developing microservices for high-scale applications
 - Developed recommendation engines with ML techniques, cloud technologies and OpenSearch
 - Backend development using Infrastructure as Code with Pulumi and AWS SDKs
