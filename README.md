@@ -12,7 +12,7 @@ I build and operate scalable backend systems that handle hundreds of thousands o
 - **Beerlay** a run for rewards platform in collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
 - **Juggernaut** reimagined, feature-rich sports tipping app serving 1,000+ users with **<200ms response times** and **95%+ test coverage** during the 2025 AFL Season
 
-## What I know (so far)
+## Stack
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
