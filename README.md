@@ -1,21 +1,18 @@
-
-# Hello 👋
-
-**Full-Stack Software Engineer** specializing in high-performance web and mobile applications across SaaS platforms, AR experiences, and cloud-native architectures.
+# G'day
 
 📍 Sydney, Australia | 💼 Software Engineer @ [leonardo.ai](https://leonardo.ai/) | 🎓 Computer Science @ Western Sydney University
 
-## 🚀 About Me
+## About Me
 
-I like to build **scalable backend systems** that handle hundreds of thousands of user interactions while maintaining **sub-second response times**. My expertise spans serverless infrastructure, microservice development, and mobile engineering with a focus on creating flexible APIs that integrate seamlessly with third-party services.
+I build and operate scalable backend systems that handle hundreds of thousands of user interactions with sub-second response times. My expertise spans various environments, from custom-designed VPCs with self-configured subnets to serverless infrastructure, event-driven microservices, and mobile engineering for data-intensive applications.
 
 ### 🏆 Recent Achievements
-- **Led Google Pixel AO activation platform** processing 6,800+ real-time photo captures with AI watermarking at Australian Open 2025
-- **Architected AR campaign platform** for Data Pinata handling **3.1M+ game sessions** across 230K+ users with **99.9% uptime**
-- **Developed a run for rewards platform** in collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
-- **Developed backend** for Juggernaut app serving 1,000+ users with **<200ms response times** and **95%+ test coverage**
+- **Google Pixel AO activation platform** processing 6,800+ real-time photo captures with AI watermarking at Australian Open 2025
+- **AR campaign platform** for Data Pinata handling **3.1M+ game sessions** across 230K+ users with **99.9% uptime**
+- **Beerlay** a run for rewards platform in collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
+- **Juggernaut** reimagined, feature-rich sports tipping app serving 1,000+ users with **<200ms response times** and **95%+ test coverage** during the 2025 AFL Season
 
-## 🛠️ Tech Stack
+## What I know (so far)
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -54,7 +51,7 @@ AR-powered mobile piñata game with prize distribution system in collaboration w
 - Real-time AR gameplay with automated prize distribution
 - **Tech:** Next.js, TypeScript, Vercel, Prisma, PlayCanvas AR
 
-### 🏃‍♂️ [Hahn Beerlay Rewards Platform](https://hahnbeerlay.com.au)
+### 🏃‍♂️ [Hahn Beerlay Run For Rewards Platform](https://hahnbeerlay.com.au)
 Running rewards platform supporting several integrations in collaboration with Garmin and Strava
 - Tracked **9,000+ activities** and **77K+ kilometers**
 - Distributed rewards to **4,800+ users** with zero security incidents
@@ -66,7 +63,7 @@ Mobile sports tipping app for Australian Football League
 - **95%+ test coverage** through comprehensive Jest
 - **Tech:** Express.js, AWS Lambda, Aurora PostgreSQL, Prisma
 
-### 🎯 [Google Pixel AO 2025 Activation Platform](https://store.google.com/intl/en_au/ideas/google-pixel-studio/)
+### 🎯 [Google Pixel x Australian Open 2025 Activation Platform](https://store.google.com/intl/en_au/ideas/google-pixel-studio/)
 Real-time image processing platform powerfing the Make Magic fan experience at Australian Open 2025
 - Processed **6,800+ photo captures** with AI watermarking
 - Generated **10,700+ downloads** with **1.56x viral sharing ratio**
@@ -78,7 +75,7 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 
 ![d1joseph's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d1joseph&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🏢 Professional Experience
+## Career
 
 **Software Engineer @ Aura Labs** (Nov 2023 - July 2025)
 - Core Platform Team developing microservices for high-scale applications
@@ -99,27 +96,20 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 **Software Developer @ Freelance** (Jan 2018 - Nov 2022)
 - Contractor building custom web applications for small business and web apps for non-profit clients
 
-## 🎨 Specializations
+## Specializations
 
 - **High-Performance Systems:** Sub-second response times at scale
 - **AR/VR Development:** PlayCanvas AR, real-time interactions
-- **Cloud Architecture:** Serverless, microservices, Infrastructure as Code
+- **Cloud Architecture:** Serverless, microservices, Infrastructure as Code on AWS, GCP and Digital Ocean
 - **API Design:** RESTful and GraphQL APIs with robust testing
+- **Backend Development**: Go, NodeJS, PostGres, OpenSearch, Nginx, Grafana + Prometheus
 - **Mobile Development:** Flutter applications with backend integration
 - **Real-time Processing:** Image processing, analytics, data pipelines and web sockets
 
-## 🎯 Interests
-
-When I'm not developing software, you'll find me:
-- 🎮 PC gaming and board gaming
-- 📚 Learning about ancient and modern history
-- 🎨 Painting table top miniatures
-- 💻 Developing personal projects
-- 🏃🏽‍♂️ Being active and working on my fitness
-
-## 📫 Let's Connect!
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivyanjoseph)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/d1joseph)
+
 
 ---
