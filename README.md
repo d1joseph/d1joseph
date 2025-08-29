@@ -45,7 +45,7 @@ I like to build **scalable backend systems** that handle hundreds of thousands o
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🎯 Featured Projects
+## 🎯 Recent Projects
 
 ### 🎮 [Data Pinata AR Campaign Platform](https://datapinata.nz)
 AR-powered mobile piñata game with prize distribution system in collaboration with [2Degrees](https://www.2degrees.nz/)
@@ -62,8 +62,8 @@ Running rewards platform supporting several integrations in collaboration with G
 
 ### 🏈 [Juggernaut AFL Tipping Application](https://www.juggernaut.game/)
 Mobile sports tipping app for Australian Football League
-- Serving **1,000+ users** with **<200ms API response times**
-- **95%+ test coverage** through comprehensive Jest testing
+- Serving **1,000+ daily active users** with **<200ms API response times**
+- **95%+ test coverage** through comprehensive Jest
 - **Tech:** Express.js, AWS Lambda, Aurora PostgreSQL, Prisma
 
 ### 🎯 [Google Pixel AO 2025 Activation Platform](https://store.google.com/intl/en_au/ideas/google-pixel-studio/)
