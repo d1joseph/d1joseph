@@ -126,4 +126,4 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivyanjoseph)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/d1joseph)
 
-Vist [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish stuff.
+Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish writing and other content on my work, software development and other topics I find interesting
