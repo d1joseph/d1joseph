@@ -128,4 +128,4 @@ Real-time image processing platform powerfing the Make Magic fan experience at A
 
 ## Blog
 
-Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish writing and other content on my work, software development and other topics I find interesting
+Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish content on my work, software development and other topics I find interesting.
