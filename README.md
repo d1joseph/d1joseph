@@ -62,4 +62,4 @@ Making machines do things.
 
 ## Blog
 
-Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish content on my work, software development and other topics I find interesting.
+Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish content about my work, software development and other topics I find interesting.
