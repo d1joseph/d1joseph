@@ -4,15 +4,7 @@
 
 ## About Me
 
-I build and operate scalable backend systems that handle hundreds of thousands of user interactions with sub-second response times. My expertise spans various environments, from custom-designed VPCs with self-configured subnets to serverless infrastructure, event-driven microservices, and mobile engineering for data-intensive applications.
-
-### 🏆 Recent Achievements
-- **Google Pixel AO activation platform** processing 6,800+ real-time photo captures with AI watermarking at Australian Open 2025
-- **AR campaign platform** for Data Pinata handling **3.1M+ game sessions** across 230K+ users with **99.9% uptime**
-- **Beerlay** a run for rewards platform in collaboration with Hahn, Garmin and Strava for the Hahn Beerlay 2025 campaign
-- **Juggernaut** reimagined, feature-rich sports tipping app serving 1,000+ users with **<200ms response times** and **95%+ test coverage** during the 2025 AFL Season
-
-## Stack
+Making machines do things.
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -57,69 +49,11 @@ I build and operate scalable backend systems that handle hundreds of thousands o
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logoColor=white)
 
-## 🎯 Recent Projects
-
-### 🎮 [Data Pinata AR Campaign Platform](https://datapinata.nz)
-AR-powered mobile piñata game with prize distribution system in collaboration with [2Degrees](https://www.2degrees.nz/)
-- **3.1M+ game sessions** across 230K+ users
-- **99.9% uptime** with **<200ms response times**
-- Real-time AR gameplay with automated prize distribution
-- **Tech:** Next.js, TypeScript, Vercel, Prisma, PlayCanvas AR
-
-### 🏃‍♂️ [Hahn Beerlay Run For Rewards Platform](https://hahnbeerlay.com.au)
-Running rewards platform supporting several integrations in collaboration with Garmin and Strava
-- Tracked **9,000+ activities** and **77K+ kilometers**
-- Distributed rewards to **4,800+ users** with zero security incidents
-- **Tech:** Astro.js, AWS Lambda, PlanetScale, OAuth 2.0
-
-### 🏈 [Juggernaut AFL Tipping Application](https://www.juggernaut.game/)
-Mobile sports tipping app for Australian Football League
-- Serving **1,000+ daily active users** with **<200ms API response times**
-- **95%+ test coverage** through comprehensive Jest
-- **Tech:** Express.js, AWS Lambda, Aurora PostgreSQL, Prisma
-
-### 🎯 [Google Pixel x Australian Open 2025 Activation Platform](https://store.google.com/intl/en_au/ideas/google-pixel-studio/)
-Real-time image processing platform powerfing the Make Magic fan experience at Australian Open 2025
-- Processed **6,800+ photo captures** with AI watermarking
-- Generated **10,700+ downloads** with **1.56x viral sharing ratio**
-- **Tech:** Astro.js, Go, GCP Buckets and MySQL, JWT
-
 ## 📊 GitHub Stats
 
 ![d1joseph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d1joseph&theme=vue-dark&hide_border=true)
 
 ![d1joseph's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d1joseph&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-## Career
-
-**Software Engineer @ Aura Labs** (Nov 2023 - July 2025)
-- Core Platform Team developing microservices for high-scale applications
-- Developed recommendation engines with ML techniques, cloud technologies and OpenSearch
-- Backend development using Infrastructure as Code with Pulumi and AWS SDKs
-
-**Backend Developer @ Unbound** (Nov 2024 - Feb 2025)
-- Developed several full-stack web apps featuring augmented reality (AR)
-- Deploy, operate and scale production experiences and infrastructure
-- Design and develop APIs to support integration with third-parties including clients and service providers
-
-**Software Developer @ Frameplay** (Apr 2022 - June 2023)
-- Automated image processing reducing manual work by 90%
-- Built GraphQL testing framework with 600+ daily test cases executed with automated testing and reporting
-- Developed several REST APIs to support reporting, analytics and metrics on in-game ad campaigns in the Frameplay web app
-- Contrubuted to several features, bug fixes and improvements across the Frameplay backend
-
-**Software Developer @ Freelance** (Jan 2018 - Nov 2022)
-- Contractor building custom web applications for small business and web apps for non-profit clients
-
-## Specializations
-
-- **High-Performance Systems:** Sub-second response times at scale
-- **AR/VR Development:** PlayCanvas AR, real-time interactions
-- **Cloud Architecture:** Serverless, microservices, Infrastructure as Code on AWS, GCP and Digital Ocean
-- **API Design:** RESTful and GraphQL APIs with robust testing
-- **Backend Development**: Go, NodeJS, PostGres, OpenSearch, Nginx, Grafana + Prometheus
-- **Mobile Development:** Flutter applications with backend integration
-- **Real-time Processing:** Image processing, analytics, data pipelines and web sockets
 
 ## Connect With Me
 
