@@ -4,7 +4,7 @@
 
 ## About Me
 
-Making machines do things.
+Making machines do things and writing about stuff at [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
 
 ## Languages & Frameworks
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -34,6 +34,7 @@ Making machines do things.
 
 ## Infrastructure & DevOps
 ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -57,7 +58,3 @@ Making machines do things.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivyanjoseph)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/d1joseph)
-
-## Blog
-
-Check out [dhivyanjoseph.dev](https://dhivyanjoseph.dev/) where I publish content about my work, software development and other topics I find interesting.
