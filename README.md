@@ -4,7 +4,7 @@
 
 ## About Me
 
-Making machines do things and editing [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
+Making machines do things and publishing work at [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
 
 ## Languages
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
