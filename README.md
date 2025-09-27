@@ -48,7 +48,7 @@ Making machines do things and editing [dhivyanjoseph.dev](https://dhivyanjoseph.
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logoColor=white)
 
-## 📊 GitHub Stats
+## Github Stats
 
 ![d1joseph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d1joseph&theme=vue-dark&hide_border=true)
 
