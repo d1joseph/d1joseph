@@ -6,21 +6,21 @@
 
 Making machines do things and editing [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
 
-## Languages & Frameworks
+## Languages
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frontend
+### Web & Mobile Frameworks
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Cloud
+### Database, Server & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0167ff?style=flat-square&logo=digitalocean&logoColor=white)
@@ -48,7 +48,7 @@ Making machines do things and editing [dhivyanjoseph.dev](https://dhivyanjoseph.
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logoColor=white)
 
-## Github Stats
+## My Github Stats
 
 ![d1joseph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d1joseph&theme=vue-dark&hide_border=true)
 
