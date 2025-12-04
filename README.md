@@ -1,10 +1,6 @@
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0419.gif" border="0" alt="animated-computer-image-0419" /></a>
 
-📍 Sydney, Australia | 💼 Software Engineer @ [leonardo.ai](https://leonardo.ai/) | 🎓 Computer Science @ Western Sydney University
-
-## About Me
-
-Making machines do things and publishing work at [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
+📍 Sydney, Australia | 💼 Software Engineer @ [leonardo.ai](https://leonardo.ai/) | 🎓 Computer Science @ Western Sydney University | [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
 
 ## Languages
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
