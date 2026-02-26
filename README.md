@@ -1,6 +1,6 @@
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0419.gif" border="0" alt="animated-computer-image-0419" /></a>
 
-📍 Sydney, Australia | 💼 Software Engineer @ [leonardo.ai](https://leonardo.ai/) | 🎓 Computer Science @ Western Sydney University | [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
+📍 Sydney, Australia | [dhivyanjoseph.dev](https://dhivyanjoseph.dev/)
 
 ## Languages
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -37,7 +37,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logoColor=white)
 
-## Some Of My Github Stats
+## Stats
 
 ![d1joseph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d1joseph&theme=vue-dark&hide_border=true)
 
@@ -46,5 +46,3 @@
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivyanjoseph)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/d1joseph)
